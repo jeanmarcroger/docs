@@ -35,3 +35,4 @@ Here's how you add yUSD to MetaMask so you can easily see your balance there.
 8\) You're done. You'll now see yUSD in your assets list so it's easier to track and use.
 
 ![](https://i.imgur.com/ZgtftOw.png)
+
